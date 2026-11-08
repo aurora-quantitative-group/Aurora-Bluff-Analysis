@@ -5,3 +5,4 @@ openface_tmp/
 analysis/*.log
 analysis/transcripts/
 videos/
+.local/

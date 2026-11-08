@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <title>Aurora</title>
+  <link rel="icon" href="/assets/images/logo.webp">
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <div class="app">
+    <header>
+      <a class="brand" href="/" aria-label="Aurora home"><img src="/assets/images/logo.webp" alt=""><span>Aurora</span></a>
+      <div class="header-right"><div class="session-info"><span id="session-status">Ready</span><span id="clock">00:00</span></div><button id="camera-toggle" class="icon-button" aria-label="Choose camera" aria-expanded="false" aria-controls="camera-menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 7h4l2-3h4l2 3h4v13H4z"/><circle cx="12" cy="13" r="4"/></svg></button></div>
+      <section id="camera-menu" class="camera-menu" aria-label="Available cameras" inert><div class="menu-heading">Camera source<span id="camera-count">0 available</span></div><div id="camera-list"></div><p id="camera-help">Enable camera access to see available devices.</p></section>
+    </header>
+    <main>
+      <div class="workspace">
+        <section class="camera-panel" aria-label="Live camera and face tracking">
+          <div class="camera-toolbar"><span><i id="live-dot"></i><span id="feed-label">Camera</span></span><span id="tracking-label">Ready</span></div>
+          <div class="viewport" id="viewport"><video id="video" autoplay muted playsinline></video><canvas id="overlay"></canvas><div class="camera-empty" id="camera-empty"><button id="enable-camera" class="primary">Enable camera <span>↗</span></button></div></div>
+          <div class="camera-footer"><span id="camera-name">No camera connected</span><span id="resolution"></span></div>
+        </section>
+        <aside class="insights">
+          <section class="reason-panel"><div class="panel-label">Reason<span id="observation-state">WAITING</span></div><p id="reason"></p><small id="reason-detail"></small></section>
+          <section class="report-panel"><div class="report-heading"><div><h2>Report</h2></div><span class="gemini-badge">Gemini</span></div><div id="report-content" class="report-content"><div class="report-placeholder"></div></div><details id="context-details"><summary>Add context <span>+</span></summary><textarea id="transcript" maxlength="20000" placeholder="Transcript or notes (optional)" aria-label="Session transcript or notes"></textarea></details><button id="generate-report" class="report-button" disabled>Generate report <span>↗</span></button></section>
+        </aside>
+      </div>
+      <section class="timeline-panel" aria-label="Session timeline"><div class="timeline-heading"><div><h2>Timeline</h2></div><div class="timeline-actions"><span class="chart-key"><i></i> Context score</span><button id="start-session" class="primary" disabled>Start session <span>→</span></button><button id="reset-session" class="text-button" disabled>Reset</button></div></div><div class="chart-wrap"><div class="chart-labels"><span>100%</span><span>50%</span><span>0%</span></div><svg id="timeline" viewBox="0 0 1000 140" preserveAspectRatio="none" role="img" aria-label="Experimental context score over the session"><path class="grid" d="M0 8H1000 M0 70H1000 M0 132H1000"/><path id="area" fill="#ffffff" fill-opacity=".04"/><path id="line" fill="none" stroke="#cccccc" stroke-width="2" vector-effect="non-scaling-stroke"/><line id="playhead" y1="0" y2="140" stroke="#888888" stroke-dasharray="3 5" visibility="hidden"/></svg><p id="chart-empty"></p></div><input id="scrubber" type="range" min="0" max="0" value="0" aria-label="Inspect session time" disabled><div class="timeline-footer"><span>00:00</span><span id="timeline-selection"></span><span id="timeline-end">00:00</span></div></section>
+      <div id="notice" role="status" aria-live="polite" hidden></div>
+    </main>
+  </div>
+</body>
+</html>
