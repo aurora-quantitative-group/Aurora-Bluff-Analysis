@@ -1,0 +1,2593 @@
+{
+  "participants": [
+    {
+      "id": "IMG_1066-003",
+      "video": "videos/Copy of IMG_1066-003.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 0.6,
+          "end": 3.6,
+          "speech": {
+            "latency": 0.66,
+            "answer_words": 26,
+            "fillers": 3,
+            "answer_span": 7.16
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 9.4,
+          "end": 11.38,
+          "speech": {
+            "latency": 0.58,
+            "answer_words": 2,
+            "fillers": 1,
+            "answer_span": 0.36
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 12.38,
+          "end": 14.9,
+          "speech": {
+            "latency": 0.42,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 1.16
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 16.18,
+          "end": 18.32,
+          "speech": {
+            "latency": 0.52,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.52
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 19.54,
+          "end": 21.92,
+          "speech": {
+            "latency": 0.64,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.74
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 22.82,
+          "end": 25.82,
+          "speech": {
+            "latency": 1.76,
+            "answer_words": 2,
+            "fillers": 1,
+            "answer_span": 0.66
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 27.6,
+          "end": 28.8,
+          "speech": {
+            "latency": 0.26,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.26
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 30.36,
+          "end": 33.36,
+          "speech": {
+            "latency": 0.96,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 1.22
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 34.9,
+          "end": 37.9,
+          "speech": {
+            "latency": 2.44,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 1.0
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 41.12,
+          "end": 44.12,
+          "speech": {
+            "latency": 0.42,
+            "answer_words": 6,
+            "fillers": 1,
+            "answer_span": 2.52
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 47.06,
+          "end": 50.06,
+          "speech": {
+            "latency": 1.1,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 0.8
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 51.86,
+          "end": 54.84,
+          "speech": {
+            "latency": 0.9,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 0.98
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 56.46,
+          "end": 58.82,
+          "speech": {
+            "latency": 0.28,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.08
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 61.38,
+          "end": 64.38,
+          "speech": {
+            "latency": 0.02,
+            "answer_words": 5,
+            "fillers": 1,
+            "answer_span": 5.92
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1067-004",
+      "video": "videos/Copy of IMG_1067-004.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 5.9,
+          "end": 7.94,
+          "speech": {
+            "latency": 2.04,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 8.6,
+          "end": 10.6,
+          "speech": {
+            "latency": 2.0,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 11.26,
+          "end": 13.88,
+          "speech": {
+            "latency": 2.62,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 14.96,
+          "end": 17.3,
+          "speech": {
+            "latency": 2.34,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 19.06,
+          "end": 20.74,
+          "speech": {
+            "latency": 1.68,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 21.96,
+          "end": 24.96,
+          "speech": {
+            "latency": 1.9,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.64
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 27.08,
+          "end": 28.48,
+          "speech": {
+            "latency": 0.22,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.58
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 29.6,
+          "end": 32.6,
+          "speech": {
+            "latency": 4.5,
+            "answer_words": 6,
+            "fillers": 0,
+            "answer_span": 4.22
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 40.94,
+          "end": 43.66,
+          "speech": {
+            "latency": 0.96,
+            "answer_words": 6,
+            "fillers": 1,
+            "answer_span": 0.96
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 44.54,
+          "end": 47.54,
+          "speech": {
+            "latency": 10.08,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.84
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 58.52,
+          "end": 61.52,
+          "speech": {
+            "latency": 5.76,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.68
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 67.06,
+          "end": 69.84,
+          "speech": {
+            "latency": 0.94,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.72
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 71.46,
+          "end": 74.18,
+          "speech": {
+            "latency": 0.76,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.96
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 75.5,
+          "end": 78.5,
+          "speech": {
+            "latency": 0.76,
+            "answer_words": 6,
+            "fillers": 1,
+            "answer_span": 2.16
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1068-008",
+      "video": "videos/Copy of IMG_1068-008.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 3.22,
+          "end": 4.84,
+          "speech": {
+            "latency": 0.82,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 5.5,
+          "end": 7.88,
+          "speech": {
+            "latency": 0.44,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 1.06
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 8.54,
+          "end": 10.46,
+          "speech": {
+            "latency": 0.44,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.38
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 11.6,
+          "end": 13.32,
+          "speech": {
+            "latency": 1.72,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 14.76,
+          "end": 17.76,
+          "speech": {
+            "latency": 0.86,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 1.06
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 18.94,
+          "end": 21.94,
+          "speech": {
+            "latency": 3.6,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 1.18
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 26.7,
+          "end": 28.26,
+          "speech": {
+            "latency": 1.56,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 30.16,
+          "end": 33.16,
+          "speech": {
+            "latency": 5.56,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.54
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 40.8,
+          "end": 43.8,
+          "speech": {
+            "latency": 2.06,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.88
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 46.08,
+          "end": 49.08,
+          "speech": {
+            "latency": 12.18,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 5.04
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 67.12,
+          "end": 70.12,
+          "speech": {
+            "latency": 2.94,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 72.98,
+          "end": 75.98,
+          "speech": {
+            "latency": 1.94,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 1.26
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 79.36,
+          "end": 82.36,
+          "speech": {
+            "latency": 1.08,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.34
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 83.82,
+          "end": 86.82,
+          "speech": {
+            "latency": 1.98,
+            "answer_words": 6,
+            "fillers": 2,
+            "answer_span": 2.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1069-011",
+      "video": "videos/Copy of IMG_1069-011.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 5.66,
+          "end": 7.42,
+          "speech": {
+            "latency": 0.62,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.26
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 8.38,
+          "end": 11.38,
+          "speech": {
+            "latency": 1.48,
+            "answer_words": 13,
+            "fillers": 0,
+            "answer_span": 3.38
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 14.4,
+          "end": 15.76,
+          "speech": {
+            "latency": 0.5,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.54
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 16.88,
+          "end": 19.46,
+          "speech": {
+            "latency": 1.2,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.72
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 20.56,
+          "end": 23.56,
+          "speech": {
+            "latency": 2.2,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.6
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 26.62,
+          "end": 29.62,
+          "speech": {
+            "latency": 0.7,
+            "answer_words": 17,
+            "fillers": 0,
+            "answer_span": 8.54
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 38.58,
+          "end": 40.92,
+          "speech": {
+            "latency": 1.02,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.52
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 41.98,
+          "end": 44.98,
+          "speech": {
+            "latency": 2.66,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.42
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 46.94,
+          "end": 49.94,
+          "speech": {
+            "latency": 1.64,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.26
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 51.66,
+          "end": 54.66,
+          "speech": {
+            "latency": 1.76,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 1.12
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 57.26,
+          "end": 60.26,
+          "speech": {
+            "latency": 1.78,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 61.62,
+          "end": 64.62,
+          "speech": {
+            "latency": 3.06,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 66.22,
+          "end": 68.68,
+          "speech": {
+            "latency": 0.68,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.78
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 69.76,
+          "end": 72.76,
+          "speech": {
+            "latency": 1.4,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 1.96
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1070-007",
+      "video": "videos/Copy of IMG_1070-007.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 4.38,
+          "end": 6.02,
+          "speech": {
+            "latency": 0.72,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 6.76,
+          "end": 9.02,
+          "speech": {
+            "latency": 1.04,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.44
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 9.68,
+          "end": 11.18,
+          "speech": {
+            "latency": 0.3,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.44
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 12.4,
+          "end": 14.36,
+          "speech": {
+            "latency": 0.56,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.28
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 15.42,
+          "end": 18.42,
+          "speech": {
+            "latency": 1.1,
+            "answer_words": 9,
+            "fillers": 0,
+            "answer_span": 2.42
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 20.86,
+          "end": 23.86,
+          "speech": {
+            "latency": 1.84,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.44
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 25.96,
+          "end": 27.12,
+          "speech": {
+            "latency": 0.1,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.64
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 28.2,
+          "end": 31.06,
+          "speech": {
+            "latency": 1.16,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.56
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 31.82,
+          "end": 34.36,
+          "speech": {
+            "latency": 0.82,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 0.9
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 35.58,
+          "end": 38.58,
+          "speech": {
+            "latency": 1.5,
+            "answer_words": 5,
+            "fillers": 1,
+            "answer_span": 2.06
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 41.82,
+          "end": 44.46,
+          "speech": {
+            "latency": 0.78,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 1.26
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 45.72,
+          "end": 47.66,
+          "speech": {
+            "latency": 0.64,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.2
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 49.16,
+          "end": 51.5,
+          "speech": {
+            "latency": 0.44,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.9
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 52.56,
+          "end": 55.56,
+          "speech": {
+            "latency": 0.32,
+            "answer_words": 5,
+            "fillers": 1,
+            "answer_span": 2.26
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1071-006",
+      "video": "videos/Copy of IMG_1071-006.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 1.98,
+          "end": 3.44,
+          "speech": {
+            "latency": 0.6,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 4.06,
+          "end": 7.06,
+          "speech": {
+            "latency": 0.62,
+            "answer_words": 12,
+            "fillers": 1,
+            "answer_span": 2.92
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 9.16,
+          "end": 10.86,
+          "speech": {
+            "latency": 0.56,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.6
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 11.78,
+          "end": 13.9,
+          "speech": {
+            "latency": 0.74,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 0.92
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 14.62,
+          "end": 17.62,
+          "speech": {
+            "latency": 0.9,
+            "answer_words": 14,
+            "fillers": 0,
+            "answer_span": 5.06
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 22.52,
+          "end": 23.58,
+          "speech": {
+            "latency": 0.22,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.58
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 24.38,
+          "end": 27.38,
+          "speech": {
+            "latency": 1.76,
+            "answer_words": 35,
+            "fillers": 2,
+            "answer_span": 11.82
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 40.24,
+          "end": 42.8,
+          "speech": {
+            "latency": 1.1,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 0.8
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 43.76,
+          "end": 46.76,
+          "speech": {
+            "latency": 2.36,
+            "answer_words": 9,
+            "fillers": 2,
+            "answer_span": 2.38
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 50.5,
+          "end": 53.5,
+          "speech": {
+            "latency": 1.3,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 0.66
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 54.68,
+          "end": 57.12,
+          "speech": {
+            "latency": 1.12,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.22
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 58.7,
+          "end": 60.8,
+          "speech": {
+            "latency": 0.74,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.36
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 61.84,
+          "end": 64.84,
+          "speech": {
+            "latency": 1.64,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 0.78
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1072-012",
+      "video": "videos/Copy of IMG_1072-012.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 5.84,
+          "end": 7.02,
+          "speech": {
+            "latency": 0.6,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 7.88,
+          "end": 9.28,
+          "speech": {
+            "latency": 0.94,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.46
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 10.2,
+          "end": 11.74,
+          "speech": {
+            "latency": 0.56,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.46
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 12.86,
+          "end": 14.7,
+          "speech": {
+            "latency": 0.84,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 15.72,
+          "end": 18.08,
+          "speech": {
+            "latency": 1.0,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.64
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 19.06,
+          "end": 21.14,
+          "speech": {
+            "latency": 1.04,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.46
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 22.88,
+          "end": 24.1,
+          "speech": {
+            "latency": 1.22,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 25.22,
+          "end": 27.68,
+          "speech": {
+            "latency": 1.3,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.3
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 28.42,
+          "end": 31.16,
+          "speech": {
+            "latency": 0.82,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.32
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 32.14,
+          "end": 34.86,
+          "speech": {
+            "latency": 1.16,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.7
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 36.0,
+          "end": 39.0,
+          "speech": {
+            "latency": 2.16,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.74
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 41.06,
+          "end": 44.06,
+          "speech": {
+            "latency": 1.92,
+            "answer_words": 8,
+            "fillers": 0,
+            "answer_span": 4.04
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 50.24,
+          "end": 52.14,
+          "speech": {
+            "latency": 0.28,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.62
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 53.16,
+          "end": 56.16,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 1.4
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1073-001",
+      "video": "videos/IMG_1073-001.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 1.68,
+          "end": 4.14,
+          "speech": {
+            "latency": 1.28,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.42
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 4.86,
+          "end": 7.48,
+          "speech": {
+            "latency": 1.28,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.42
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 8.02,
+          "end": 10.44,
+          "speech": {
+            "latency": 1.02,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.42
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 11.42,
+          "end": 13.62,
+          "speech": {
+            "latency": 0.92,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 14.7,
+          "end": 17.7,
+          "speech": {
+            "latency": 1.46,
+            "answer_words": 15,
+            "fillers": 1,
+            "answer_span": 5.38
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 23.72,
+          "end": 26.72,
+          "speech": {
+            "latency": 3.28,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 1.5
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 31.3,
+          "end": 34.3,
+          "speech": {
+            "latency": 1.36,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.52
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 35.42,
+          "end": 38.42,
+          "speech": {
+            "latency": 1.72,
+            "answer_words": 6,
+            "fillers": 1,
+            "answer_span": 2.46
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 40.9,
+          "end": 43.9,
+          "speech": {
+            "latency": 1.42,
+            "answer_words": 6,
+            "fillers": 0,
+            "answer_span": 1.86
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 45.92,
+          "end": 48.92,
+          "speech": {
+            "latency": 2.7,
+            "answer_words": 7,
+            "fillers": 1,
+            "answer_span": 2.4
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 53.56,
+          "end": 56.56,
+          "speech": {
+            "latency": 1.16,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 0.88
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 58.1,
+          "end": 61.1,
+          "speech": {
+            "latency": 0.74,
+            "answer_words": 19,
+            "fillers": 1,
+            "answer_span": 6.68
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 68.48,
+          "end": 71.24,
+          "speech": {
+            "latency": 0.68,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.08
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 72.58,
+          "end": 75.58,
+          "speech": {
+            "latency": 1.4,
+            "answer_words": 6,
+            "fillers": 0,
+            "answer_span": 2.14
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1923",
+      "video": "videos/IMG_1923.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 2.38,
+          "end": 3.38,
+          "speech": {
+            "latency": -0.62,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 5.6,
+          "end": 6.6,
+          "speech": {
+            "latency": -1.82,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 8.38,
+          "end": 9.78,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 1.4
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 12.16,
+          "end": 15.16,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 3.02
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 18.12,
+          "end": 19.12,
+          "speech": {
+            "latency": -0.54,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 22.24,
+          "end": 23.24,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.6
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 29.68,
+          "end": 31.36,
+          "speech": {
+            "latency": 1.68,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 33.78,
+          "end": 36.78,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 10,
+            "fillers": 0,
+            "answer_span": 4.44
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 42.26,
+          "end": 45.26,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 11,
+            "fillers": 1,
+            "answer_span": 3.12
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 47.98,
+          "end": 50.98,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 18,
+            "fillers": 3,
+            "answer_span": 11.54
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 67.12,
+          "end": 68.12,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 0.52
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 73.14,
+          "end": 75.44,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.3
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 79.42,
+          "end": 80.42,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.3
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 83.68,
+          "end": 86.68,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 14,
+            "fillers": 0,
+            "answer_span": 4.76
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1924",
+      "video": "videos/IMG_1924.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 5.78,
+          "end": 7.58,
+          "speech": {
+            "latency": 0.36,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 0.94
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 8.38,
+          "end": 10.02,
+          "speech": {
+            "latency": 0.72,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.14
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 10.64,
+          "end": 12.44,
+          "speech": {
+            "latency": 0.8,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 13.72,
+          "end": 15.86,
+          "speech": {
+            "latency": 0.78,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.42
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 17.34,
+          "end": 19.06,
+          "speech": {
+            "latency": 0.58,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 20.32,
+          "end": 23.32,
+          "speech": {
+            "latency": 1.48,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 0.92
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 25.14,
+          "end": 26.18,
+          "speech": {
+            "latency": 0.22,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.3
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 27.48,
+          "end": 30.48,
+          "speech": {
+            "latency": 1.66,
+            "answer_words": 2,
+            "fillers": 1,
+            "answer_span": 0.84
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 31.84,
+          "end": 34.44,
+          "speech": {
+            "latency": 0.96,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 0.72
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 35.54,
+          "end": 38.54,
+          "speech": {
+            "latency": 0.98,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 1.1
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 40.12,
+          "end": 43.12,
+          "speech": {
+            "latency": 1.78,
+            "answer_words": 2,
+            "fillers": 1,
+            "answer_span": 1.02
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 45.42,
+          "end": 47.36,
+          "speech": {
+            "latency": 0.48,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.12
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 48.84,
+          "end": 51.0,
+          "speech": {
+            "latency": 0.38,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.78
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 52.14,
+          "end": 55.14,
+          "speech": {
+            "latency": 1.78,
+            "answer_words": 6,
+            "fillers": 1,
+            "answer_span": 2.58
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1926",
+      "video": "videos/IMG_1926.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 6.98,
+          "end": 8.98,
+          "speech": {
+            "latency": 0.9,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 9.86,
+          "end": 11.5,
+          "speech": {
+            "latency": 0.56,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.4
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 12.2,
+          "end": 14.38,
+          "speech": {
+            "latency": 0.58,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 0.94
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 15.78,
+          "end": 17.1,
+          "speech": {
+            "latency": 0.34,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.3
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 18.42,
+          "end": 21.42,
+          "speech": {
+            "latency": 2.68,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.44
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 22.84,
+          "end": 25.14,
+          "speech": {
+            "latency": 0.98,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.58
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 26.66,
+          "end": 28.28,
+          "speech": {
+            "latency": 0.52,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.66
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 29.3,
+          "end": 32.3,
+          "speech": {
+            "latency": 4.5,
+            "answer_words": 5,
+            "fillers": 1,
+            "answer_span": 1.52
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 37.18,
+          "end": 40.18,
+          "speech": {
+            "latency": 1.04,
+            "answer_words": 6,
+            "fillers": 0,
+            "answer_span": 3.16
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 43.96,
+          "end": 46.96,
+          "speech": {
+            "latency": 1.18,
+            "answer_words": 6,
+            "fillers": 2,
+            "answer_span": 1.22
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 48.94,
+          "end": 51.94,
+          "speech": {
+            "latency": 1.58,
+            "answer_words": 3,
+            "fillers": 1,
+            "answer_span": 0.72
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 53.62,
+          "end": 55.62,
+          "speech": {
+            "latency": 0.76,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.14
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 57.9,
+          "end": 60.62,
+          "speech": {
+            "latency": 0.04,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.68
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 61.78,
+          "end": 64.78,
+          "speech": {
+            "latency": 1.0,
+            "answer_words": 4,
+            "fillers": 1,
+            "answer_span": 3.06
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1927",
+      "video": "videos/IMG_1927.MOV",
+      "rotate": 270,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 38.02,
+          "end": 39.02,
+          "speech": {
+            "latency": 0.63,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 39.36,
+          "end": 40.36,
+          "speech": {
+            "latency": -0.71,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 42.84,
+          "end": 43.84,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 46.66,
+          "end": 47.66,
+          "speech": {
+            "latency": -0.22,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 49.9,
+          "end": 50.9,
+          "speech": {
+            "latency": -0.14,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 58.46,
+          "end": 59.46,
+          "speech": {
+            "latency": -0.32,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 65.38,
+          "end": 66.38,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 69.91,
+          "end": 70.91,
+          "speech": {
+            "latency": -1.11,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 82.35,
+          "end": 85.35,
+          "speech": {
+            "latency": 6.04,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 91.79,
+          "end": 94.79,
+          "speech": {
+            "latency": 7.92,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 100.61,
+          "end": 103.61,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 11,
+            "fillers": 1,
+            "answer_span": 5.64
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 111.13,
+          "end": 112.13,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 115.41,
+          "end": 118.41,
+          "speech": {
+            "latency": 5.0,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_1934",
+      "video": "videos/IMG_1934.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 22.48,
+          "end": 24.66,
+          "speech": {
+            "latency": 0.96,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.28
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 25.58,
+          "end": 28.18,
+          "speech": {
+            "latency": 1.16,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.36
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 28.94,
+          "end": 31.28,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 1.3
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 32.82,
+          "end": 35.46,
+          "speech": {
+            "latency": 0.76,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.28
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 36.92,
+          "end": 39.5,
+          "speech": {
+            "latency": 0.7,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.46
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 40.68,
+          "end": 43.68,
+          "speech": {
+            "latency": 3.5,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 46.08,
+          "end": 48.42,
+          "speech": {
+            "latency": 0.5,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.48
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 49.62,
+          "end": 52.48,
+          "speech": {
+            "latency": 2.86,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 54.08,
+          "end": 56.36,
+          "speech": {
+            "latency": 1.64,
+            "answer_words": 2,
+            "fillers": 1,
+            "answer_span": 0.64
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 59.64,
+          "end": 62.64,
+          "speech": {
+            "latency": 0.64,
+            "answer_words": 5,
+            "fillers": 1,
+            "answer_span": 1.38
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 64.86,
+          "end": 67.86,
+          "speech": {
+            "latency": 1.52,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 1.1
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 70.74,
+          "end": 73.74,
+          "speech": {
+            "latency": 3.28,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.42
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 78.82,
+          "end": 81.82,
+          "speech": {
+            "latency": 0.9,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 2.58
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 83.54,
+          "end": 86.54,
+          "speech": {
+            "latency": 0.0,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 2.22
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_2778",
+      "video": "videos/IMG_2778.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 11.02,
+          "end": 12.5,
+          "speech": {
+            "latency": 0.68,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.22
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 13.4,
+          "end": 15.92,
+          "speech": {
+            "latency": 1.52,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.36
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 16.74,
+          "end": 18.2,
+          "speech": {
+            "latency": 0.64,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.32
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 19.34,
+          "end": 21.64,
+          "speech": {
+            "latency": 0.48,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.18
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 23.0,
+          "end": 25.72,
+          "speech": {
+            "latency": 0.18,
+            "answer_words": 8,
+            "fillers": 0,
+            "answer_span": 1.6
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 26.82,
+          "end": 29.82,
+          "speech": {
+            "latency": 0.6,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.66
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 33.96,
+          "end": 35.76,
+          "speech": {
+            "latency": 0.34,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 0.92
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 36.64,
+          "end": 39.64,
+          "speech": {
+            "latency": 0.58,
+            "answer_words": 10,
+            "fillers": 1,
+            "answer_span": 6.36
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 44.64,
+          "end": 47.42,
+          "speech": {
+            "latency": 0.64,
+            "answer_words": 5,
+            "fillers": 0,
+            "answer_span": 1.52
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 48.4,
+          "end": 51.4,
+          "speech": {
+            "latency": 0.6,
+            "answer_words": 15,
+            "fillers": 2,
+            "answer_span": 5.66
+          }
+        },
+        {
+          "question": "sleep",
+          "kind": "risky",
+          "start": 57.02,
+          "end": 60.02,
+          "speech": {
+            "latency": 0.88,
+            "answer_words": 4,
+            "fillers": 0,
+            "answer_span": 1.08
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 61.42,
+          "end": 63.68,
+          "speech": {
+            "latency": 0.8,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.26
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 65.46,
+          "end": 68.16,
+          "speech": {
+            "latency": 1.72,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 0.98
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 69.28,
+          "end": 72.28,
+          "speech": {
+            "latency": 0.72,
+            "answer_words": 6,
+            "fillers": 0,
+            "answer_span": 4.28
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMG_2780",
+      "video": "videos/IMG_2780.MOV",
+      "rotate": 0,
+      "windows": [
+        {
+          "question": "name",
+          "kind": "baseline",
+          "start": 6.3,
+          "end": 7.92,
+          "speech": {
+            "latency": 0.88,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "grade",
+          "kind": "baseline",
+          "start": 8.66,
+          "end": 11.66,
+          "speech": {
+            "latency": 1.14,
+            "answer_words": 8,
+            "fillers": 1,
+            "answer_span": 2.84
+          }
+        },
+        {
+          "question": "major",
+          "kind": "baseline",
+          "start": 14.1,
+          "end": 16.3,
+          "speech": {
+            "latency": 0.74,
+            "answer_words": 2,
+            "fillers": 0,
+            "answer_span": 0.58
+          }
+        },
+        {
+          "question": "state",
+          "kind": "baseline",
+          "start": 17.42,
+          "end": 19.24,
+          "speech": {
+            "latency": 0.7,
+            "answer_words": 1,
+            "fillers": 0,
+            "answer_span": 0.32
+          }
+        },
+        {
+          "question": "university",
+          "kind": "baseline",
+          "start": 20.5,
+          "end": 23.5,
+          "speech": {
+            "latency": 1.38,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.12
+          }
+        },
+        {
+          "question": "food",
+          "kind": "baseline",
+          "start": 24.42,
+          "end": 27.42,
+          "speech": {
+            "latency": 3.98,
+            "answer_words": 10,
+            "fillers": 1,
+            "answer_span": 3.24
+          }
+        },
+        {
+          "question": "campus",
+          "kind": "baseline",
+          "start": 34.7,
+          "end": 36.16,
+          "speech": {
+            "latency": 1.46,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "class",
+          "kind": "baseline",
+          "start": 37.14,
+          "end": 40.14,
+          "speech": {
+            "latency": 4.42,
+            "answer_words": 2,
+            "fillers": 1,
+            "answer_span": 0.94
+          }
+        },
+        {
+          "question": "gpa",
+          "kind": "risky",
+          "start": 44.52,
+          "end": 47.52,
+          "speech": {
+            "latency": 3.54,
+            "answer_words": 0,
+            "fillers": 0,
+            "answer_span": 0.0
+          }
+        },
+        {
+          "question": "screentime",
+          "kind": "risky",
+          "start": 51.04,
+          "end": 54.04,
+          "speech": {
+            "latency": 3.88,
+            "answer_words": 12,
+            "fillers": 1,
+            "answer_span": 6.62
+          }
+        },
+        {
+          "question": "ai",
+          "kind": "risky",
+          "start": 65.72,
+          "end": 68.72,
+          "speech": {
+            "latency": 1.36,
+            "answer_words": 17,
+            "fillers": 1,
+            "answer_span": 4.74
+          }
+        },
+        {
+          "question": "dated",
+          "kind": "risky",
+          "start": 74.82,
+          "end": 77.26,
+          "speech": {
+            "latency": 0.48,
+            "answer_words": 3,
+            "fillers": 0,
+            "answer_span": 1.96
+          }
+        },
+        {
+          "question": "bank",
+          "kind": "risky",
+          "start": 78.5,
+          "end": 81.5,
+          "speech": {
+            "latency": 2.18,
+            "answer_words": 10,
+            "fillers": 0,
+            "answer_span": 2.6
+          }
+        }
+      ]
+    }
+  ]
+}

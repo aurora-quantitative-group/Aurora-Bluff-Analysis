@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+openface_cache/
+openface_tmp/
+analysis/*.log
+analysis/transcripts/
+videos/

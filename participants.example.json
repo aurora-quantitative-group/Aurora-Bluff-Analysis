@@ -1,0 +1,15 @@
+{
+  "participants": [
+    {
+      "id": "IMG_1066-003",
+      "video": "videos/Copy of IMG_1066-003.MOV",
+      "rotate": 0,
+      "windows": [
+        {"question": "name", "kind": "baseline", "start": 0.6, "end": 3.6},
+        {"question": "gpa", "kind": "risky", "start": 34.9, "end": 37.9, "label": 1},
+        {"question": "screentime", "kind": "risky", "start": 41.12, "end": 44.12, "label": 0,
+         "speech": {"latency": 0.42, "answer_words": 5, "fillers": 1, "answer_span": 2.9}}
+      ]
+    }
+  ]
+}
